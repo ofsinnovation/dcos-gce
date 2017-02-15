@@ -261,7 +261,7 @@ The location of the gcloudbin binary. Default: /usr/local/bin/gcloud
 ```text
 image
 ```
-The disk image used on the master and agent. Default: /centos-cloud/centos-7-v20161027
+The disk image used on the master and agent. Default: /centos-cloud/centos-7-v20170124
 
 ```text
 bootstrap_public_port

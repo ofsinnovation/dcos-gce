@@ -38,7 +38,7 @@ end_id: 0001
 
 gcloudbin: /usr/bin/gcloud
 
-image: 'centos-7-v20161027'
+image: 'centos-7-v20170124'
 
 image_project: 'centos-cloud'
 
